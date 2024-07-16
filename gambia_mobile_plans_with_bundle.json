@@ -1,0 +1,236 @@
+{
+  "operators": [
+    {
+      "name": "AFRICELL",
+      "logo": "https://raw.githubusercontent.com/kevindupas/ShortURL/master/Africell.png",
+      "plans": [
+        {
+          "name": "Daily Plan",
+          "data": 500,
+          "dataUnit": "MB",
+          "price": 20,
+          "priceUnit": "GMD",
+          "validity": 1,
+          "validityUnit": "day",
+          "bundle": false
+        },
+        {
+          "name": "Weekly Plan",
+          "data": 2,
+          "dataUnit": "GB",
+          "price": 100,
+          "priceUnit": "GMD",
+          "validity": 7,
+          "validityUnit": "days",
+          "bundle": false
+        },
+        {
+          "name": "Monthly Plan",
+          "data": 10,
+          "dataUnit": "GB",
+          "price": 500,
+          "priceUnit": "GMD",
+          "validity": 30,
+          "validityUnit": "days",
+          "bundle": false
+        },
+        {
+          "name": "Festival Bundle",
+          "data": 5,
+          "dataUnit": "GB",
+          "price": 250,
+          "priceUnit": "GMD",
+          "validity": 7,
+          "validityUnit": "days",
+          "description": "Special bundle for festivals",
+          "bundle": true
+        },
+        {
+          "name": "Night Owl Bundle",
+          "data": 3,
+          "dataUnit": "GB",
+          "price": 150,
+          "priceUnit": "GMD",
+          "validity": 1,
+          "validityUnit": "night",
+          "description": "Data valid from 12 AM to 6 AM",
+          "bundle": true
+        }
+      ]
+    },
+    {
+      "name": "QCELL",
+      "logo": "https://raw.githubusercontent.com/kevindupas/ShortURL/master/Qcell.png",
+      "plans": [
+        {
+          "name": "Daily Plan",
+          "data": 300,
+          "dataUnit": "MB",
+          "price": 15,
+          "priceUnit": "GMD",
+          "validity": 1,
+          "validityUnit": "day",
+          "bundle": false
+        },
+        {
+          "name": "Weekly Plan",
+          "data": 1.5,
+          "dataUnit": "GB",
+          "price": 90,
+          "priceUnit": "GMD",
+          "validity": 7,
+          "validityUnit": "days",
+          "bundle": false
+        },
+        {
+          "name": "Monthly Plan",
+          "data": 8,
+          "dataUnit": "GB",
+          "price": 450,
+          "priceUnit": "GMD",
+          "validity": 30,
+          "validityUnit": "days",
+          "bundle": false
+        },
+        {
+          "name": "Holiday Special Bundle",
+          "data": 6,
+          "dataUnit": "GB",
+          "price": 300,
+          "priceUnit": "GMD",
+          "validity": 15,
+          "validityUnit": "days",
+          "description": "Special holiday offer",
+          "bundle": true
+        },
+        {
+          "name": "Weekend Plan",
+          "data": 2,
+          "dataUnit": "GB",
+          "price": 100,
+          "priceUnit": "GMD",
+          "validity": 2,
+          "validityUnit": "days",
+          "description": "Valid for weekends only",
+          "bundle": true
+        }
+      ]
+    },
+    {
+      "name": "GAMCEL",
+      "logo": "https://raw.githubusercontent.com/kevindupas/ShortURL/master/Gamcel.png",
+      "plans": [
+        {
+          "name": "Daily Plan",
+          "data": 250,
+          "dataUnit": "MB",
+          "price": 10,
+          "priceUnit": "GMD",
+          "validity": 1,
+          "validityUnit": "day",
+          "bundle": false
+        },
+        {
+          "name": "Weekly Plan",
+          "data": 1,
+          "dataUnit": "GB",
+          "price": 60,
+          "priceUnit": "GMD",
+          "validity": 7,
+          "validityUnit": "days",
+          "bundle": false
+        },
+        {
+          "name": "Monthly Plan",
+          "data": 5,
+          "dataUnit": "GB",
+          "price": 300,
+          "priceUnit": "GMD",
+          "validity": 30,
+          "validityUnit": "days",
+          "bundle": false
+        },
+        {
+          "name": "Festival Data Pack",
+          "data": 4,
+          "dataUnit": "GB",
+          "price": 200,
+          "priceUnit": "GMD",
+          "validity": 7,
+          "validityUnit": "days",
+          "description": "Special offer during festivals",
+          "bundle": true
+        },
+        {
+          "name": "Night Bundle",
+          "data": 2,
+          "dataUnit": "GB",
+          "price": 100,
+          "priceUnit": "GMD",
+          "validity": 1,
+          "validityUnit": "night",
+          "description": "Valid from 11 PM to 5 AM",
+          "bundle": true
+        }
+      ]
+    },
+    {
+      "name": "COMIUM",
+      "logo": "https://raw.githubusercontent.com/kevindupas/ShortURL/master/Comium.png",
+      "plans": [
+        {
+          "name": "Daily Plan",
+          "data": 400,
+          "dataUnit": "MB",
+          "price": 18,
+          "priceUnit": "GMD",
+          "validity": 1,
+          "validityUnit": "day",
+          "bundle": false
+        },
+        {
+          "name": "Weekly Plan",
+          "data": 2,
+          "dataUnit": "GB",
+          "price": 80,
+          "priceUnit": "GMD",
+          "validity": 7,
+          "validityUnit": "days",
+          "bundle": false
+        },
+        {
+          "name": "Monthly Plan",
+          "data": 9,
+          "dataUnit": "GB",
+          "price": 450,
+          "priceUnit": "GMD",
+          "validity": 30,
+          "validityUnit": "days",
+          "bundle": false
+        },
+        {
+          "name": "Special Event Bundle",
+          "data": 7,
+          "dataUnit": "GB",
+          "price": 350,
+          "priceUnit": "GMD",
+          "validity": 10,
+          "validityUnit": "days",
+          "description": "Special bundle for specific events",
+          "bundle": true
+        },
+        {
+          "name": "Weekend Data Pack",
+          "data": 1.5,
+          "dataUnit": "GB",
+          "price": 75,
+          "priceUnit": "GMD",
+          "validity": 2,
+          "validityUnit": "days",
+          "description": "Valid only on weekends",
+          "bundle": true
+        }
+      ]
+    }
+  ]
+}
