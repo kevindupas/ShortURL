@@ -12,7 +12,10 @@
           "priceUnit": "GMD",
           "validity": 1,
           "validityUnit": "day",
-          "bundle": false
+          "bundle": false,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Weekly Plan",
@@ -22,7 +25,10 @@
           "priceUnit": "GMD",
           "validity": 7,
           "validityUnit": "days",
-          "bundle": false
+          "bundle": false,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Monthly Plan",
@@ -32,7 +38,10 @@
           "priceUnit": "GMD",
           "validity": 30,
           "validityUnit": "days",
-          "bundle": false
+          "bundle": false,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Festival Bundle",
@@ -43,7 +52,10 @@
           "validity": 7,
           "validityUnit": "days",
           "description": "Special bundle for festivals",
-          "bundle": true
+          "bundle": true,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Night Owl Bundle",
@@ -54,7 +66,24 @@
           "validity": 1,
           "validityUnit": "night",
           "description": "Data valid from 12 AM to 6 AM",
-          "bundle": true
+          "bundle": true,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
+        },
+        {
+          "name": "Promotional Plan Spring",
+          "data": 6,
+          "dataUnit": "GB",
+          "price": 200,
+          "priceUnit": "GMD",
+          "validity": 10,
+          "validityUnit": "days",
+          "description": "Spring promotional plan",
+          "bundle": true,
+          "creationDate": "2024-04-01",
+          "endDate": "2024-05-01",
+          "promotion": true
         }
       ]
     },
@@ -70,7 +99,10 @@
           "priceUnit": "GMD",
           "validity": 1,
           "validityUnit": "day",
-          "bundle": false
+          "bundle": false,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Weekly Plan",
@@ -80,7 +112,10 @@
           "priceUnit": "GMD",
           "validity": 7,
           "validityUnit": "days",
-          "bundle": false
+          "bundle": false,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Monthly Plan",
@@ -90,7 +125,10 @@
           "priceUnit": "GMD",
           "validity": 30,
           "validityUnit": "days",
-          "bundle": false
+          "bundle": false,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Holiday Special Bundle",
@@ -101,7 +139,10 @@
           "validity": 15,
           "validityUnit": "days",
           "description": "Special holiday offer",
-          "bundle": true
+          "bundle": true,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Weekend Plan",
@@ -112,7 +153,24 @@
           "validity": 2,
           "validityUnit": "days",
           "description": "Valid for weekends only",
-          "bundle": true
+          "bundle": true,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
+        },
+        {
+          "name": "Summer Promo Bundle",
+          "data": 4,
+          "dataUnit": "GB",
+          "price": 180,
+          "priceUnit": "GMD",
+          "validity": 14,
+          "validityUnit": "days",
+          "description": "Summer promotional bundle",
+          "bundle": true,
+          "creationDate": "2024-06-01",
+          "endDate": "2024-07-01",
+          "promotion": true
         }
       ]
     },
@@ -128,7 +186,10 @@
           "priceUnit": "GMD",
           "validity": 1,
           "validityUnit": "day",
-          "bundle": false
+          "bundle": false,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Weekly Plan",
@@ -138,7 +199,10 @@
           "priceUnit": "GMD",
           "validity": 7,
           "validityUnit": "days",
-          "bundle": false
+          "bundle": false,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Monthly Plan",
@@ -148,7 +212,10 @@
           "priceUnit": "GMD",
           "validity": 30,
           "validityUnit": "days",
-          "bundle": false
+          "bundle": false,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Festival Data Pack",
@@ -159,7 +226,10 @@
           "validity": 7,
           "validityUnit": "days",
           "description": "Special offer during festivals",
-          "bundle": true
+          "bundle": true,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Night Bundle",
@@ -170,7 +240,24 @@
           "validity": 1,
           "validityUnit": "night",
           "description": "Valid from 11 PM to 5 AM",
-          "bundle": true
+          "bundle": true,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
+        },
+        {
+          "name": "Back to School Promo",
+          "data": 3,
+          "dataUnit": "GB",
+          "price": 150,
+          "priceUnit": "GMD",
+          "validity": 7,
+          "validityUnit": "days",
+          "description": "Special back to school promotion",
+          "bundle": true,
+          "creationDate": "2024-09-01",
+          "endDate": "2024-09-30",
+          "promotion": true
         }
       ]
     },
@@ -186,7 +273,10 @@
           "priceUnit": "GMD",
           "validity": 1,
           "validityUnit": "day",
-          "bundle": false
+          "bundle": false,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Weekly Plan",
@@ -196,7 +286,10 @@
           "priceUnit": "GMD",
           "validity": 7,
           "validityUnit": "days",
-          "bundle": false
+          "bundle": false,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Monthly Plan",
@@ -206,7 +299,10 @@
           "priceUnit": "GMD",
           "validity": 30,
           "validityUnit": "days",
-          "bundle": false
+          "bundle": false,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Special Event Bundle",
@@ -217,7 +313,10 @@
           "validity": 10,
           "validityUnit": "days",
           "description": "Special bundle for specific events",
-          "bundle": true
+          "bundle": true,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
         },
         {
           "name": "Weekend Data Pack",
@@ -228,7 +327,24 @@
           "validity": 2,
           "validityUnit": "days",
           "description": "Valid only on weekends",
-          "bundle": true
+          "bundle": true,
+          "creationDate": "2023-01-01",
+          "endDate": "N/A",
+          "promotion": false
+        },
+        {
+          "name": "Winter Special Offer",
+          "data": 5,
+          "dataUnit": "GB",
+          "price": 250,
+          "priceUnit": "GMD",
+          "validity": 10,
+          "validityUnit": "days",
+          "description": "Winter promotional offer",
+          "bundle": true,
+          "creationDate": "2024-12-01",
+          "endDate": "2024-12-31",
+          "promotion": true
         }
       ]
     }
