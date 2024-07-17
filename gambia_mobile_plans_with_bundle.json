@@ -14,7 +14,7 @@
     "bundle": false,
     "description": null,
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -32,7 +32,7 @@
     "bundle": false,
     "description": null,
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -50,7 +50,7 @@
     "bundle": false,
     "description": null,
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -68,7 +68,7 @@
     "bundle": true,
     "description": "Special bundle for festivals",
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -86,7 +86,7 @@
     "bundle": true,
     "description": "data valid from 12 AM to 6 AM",
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -104,7 +104,7 @@
     "bundle": false,
     "description": "Spring promotional plan",
     "creationDate": "4/1/24",
-    "end_date": "5/1/24",
+    "endDate": "5/1/24",
     "promotion": true
   },
   {
@@ -122,7 +122,7 @@
     "bundle": false,
     "description": "Autumn promotional plan",
     "creationDate": "9/1/24",
-    "end_date": "9/15/24",
+    "endDate": "9/15/24",
     "promotion": true
   },
   {
@@ -140,7 +140,7 @@
     "bundle": false,
     "description": null,
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -158,7 +158,7 @@
     "bundle": false,
     "description": null,
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -176,7 +176,7 @@
     "bundle": false,
     "description": null,
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -194,7 +194,7 @@
     "bundle": true,
     "description": "Special holiday offer",
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -212,7 +212,7 @@
     "bundle": true,
     "description": "Valid for weekends only",
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -230,7 +230,7 @@
     "bundle": true,
     "description": "Summer promotional bundle",
     "creationDate": "6/1/24",
-    "end_date": "7/1/24",
+    "endDate": "7/1/24",
     "promotion": true
   },
   {
@@ -248,7 +248,7 @@
     "bundle": false,
     "description": "Winter promotional plan",
     "creationDate": "12/1/24",
-    "end_date": "12/31/24",
+    "endDate": "12/31/24",
     "promotion": true
   },
   {
@@ -266,7 +266,7 @@
     "bundle": false,
     "description": null,
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -284,7 +284,7 @@
     "bundle": false,
     "description": null,
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -302,7 +302,7 @@
     "bundle": false,
     "description": null,
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -320,7 +320,7 @@
     "bundle": true,
     "description": "Special offer during festivals",
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -338,7 +338,7 @@
     "bundle": true,
     "description": "Valid from 11 PM to 5 AM",
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -356,7 +356,7 @@
     "bundle": true,
     "description": "Special back to school promotion",
     "creationDate": "9/1/24",
-    "end_date": "9/30/24",
+    "endDate": "9/30/24",
     "promotion": true
   },
   {
@@ -374,7 +374,7 @@
     "bundle": false,
     "description": "Summer promotional plan",
     "creationDate": "6/1/24",
-    "end_date": "6/10/24",
+    "endDate": "6/10/24",
     "promotion": true
   },
   {
@@ -392,7 +392,7 @@
     "bundle": false,
     "description": null,
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -410,7 +410,7 @@
     "bundle": false,
     "description": null,
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -428,7 +428,7 @@
     "bundle": false,
     "description": null,
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -446,7 +446,7 @@
     "bundle": true,
     "description": "Special bundle for specific events",
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -464,7 +464,7 @@
     "bundle": true,
     "description": "Valid only on weekends",
     "creationDate": "1/1/23",
-    "end_date": null,
+    "endDate": null,
     "promotion": false
   },
   {
@@ -482,7 +482,7 @@
     "bundle": false,
     "description": "Winter promotional offer",
     "creationDate": "12/1/24",
-    "end_date": "12/31/24",
+    "endDate": "12/31/24",
     "promotion": true
   },
   {
@@ -500,7 +500,7 @@
     "bundle": false,
     "description": "Spring promotional plan",
     "creationDate": "4/1/24",
-    "end_date": "4/15/24",
+    "endDate": "4/15/24",
     "promotion": true
   }
 ]
