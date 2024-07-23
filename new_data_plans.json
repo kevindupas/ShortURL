@@ -93,11 +93,11 @@
         }
       ]
     },
-    "GAMCELL": {
-      "logo": "",
+    "GAMCEL": {
+      "logo": "https://raw.githubusercontent.com/kevindupas/ShortURL/master/Gamcel.png",
       "offers": [
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "20MB",
           "dataSpeed": "",
@@ -108,7 +108,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "50MB",
           "dataSpeed": "",
@@ -119,7 +119,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "100MB",
           "dataSpeed": "",
@@ -130,7 +130,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "200MB",
           "dataSpeed": "",
@@ -141,7 +141,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "500MB",
           "dataSpeed": "",
@@ -152,7 +152,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "1000MB",
           "dataSpeed": "",
@@ -163,7 +163,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "2000MB",
           "dataSpeed": "",
@@ -174,7 +174,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "4000MB",
           "dataSpeed": "",
@@ -185,7 +185,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "6000MB",
           "dataSpeed": "",
@@ -196,7 +196,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "8000MB",
           "dataSpeed": "",
@@ -207,7 +207,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "10,000MB",
           "dataSpeed": "",
@@ -218,7 +218,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "12,000MB",
           "dataSpeed": "",
@@ -229,7 +229,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "14,000MB",
           "dataSpeed": "",
@@ -240,7 +240,7 @@
           "subscriptionSmsText": ""
         },
         {
-          "carrier": "GAMCELL",
+          "carrier": "GAMCEL",
           "type": "Data Bundle",
           "dataAmount": "20,000MB",
           "dataSpeed": "",
