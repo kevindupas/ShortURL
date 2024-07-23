@@ -1,0 +1,1801 @@
+{
+  "plans": {
+    "COMIUM": {
+      "logo": "https://raw.githubusercontent.com/kevindupas/ShortURL/master/Comium.png",
+      "offers": [
+        {
+          "carrier": "COMIUM",
+          "type": "Data Bundle",
+          "dataAmount": "5GB",
+          "dataSpeed": "",
+          "price": 50,
+          "validityDays": 5,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "COMIUM",
+          "type": "Data Bundle",
+          "dataAmount": "250MB",
+          "dataSpeed": "",
+          "price": 15,
+          "validityDays": 7,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "COMIUM",
+          "type": "Data Bundle",
+          "dataAmount": "1GB",
+          "dataSpeed": "",
+          "price": 35,
+          "validityDays": 7,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "COMIUM",
+          "type": "Data Bundle",
+          "dataAmount": "1GB",
+          "dataSpeed": "",
+          "price": 50,
+          "validityDays": 14,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "COMIUM",
+          "type": "Data Bundle",
+          "dataAmount": "3GB",
+          "dataSpeed": "",
+          "price": 85,
+          "validityDays": 14,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "COMIUM",
+          "type": "Data Bundle",
+          "dataAmount": "10GB",
+          "dataSpeed": "",
+          "price": 190,
+          "validityDays": 14,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "COMIUM",
+          "type": "Data Bundle",
+          "dataAmount": "5GB",
+          "dataSpeed": "",
+          "price": 130,
+          "validityDays": 14,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "COMIUM",
+          "type": "Data Bundle",
+          "dataAmount": "10GB",
+          "dataSpeed": "",
+          "price": 290,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        }
+      ]
+    },
+    "GAMCELL": {
+      "logo": "",
+      "offers": [
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "20MB",
+          "dataSpeed": "",
+          "price": 13,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "50MB",
+          "dataSpeed": "",
+          "price": 25,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "100MB",
+          "dataSpeed": "",
+          "price": 40,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "200MB",
+          "dataSpeed": "",
+          "price": 76,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "500MB",
+          "dataSpeed": "",
+          "price": 175,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "1000MB",
+          "dataSpeed": "",
+          "price": 270,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "2000MB",
+          "dataSpeed": "",
+          "price": 460,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "4000MB",
+          "dataSpeed": "",
+          "price": 680,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "6000MB",
+          "dataSpeed": "",
+          "price": 1020,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "8000MB",
+          "dataSpeed": "",
+          "price": 1360,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "10,000MB",
+          "dataSpeed": "",
+          "price": 1400,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "12,000MB",
+          "dataSpeed": "",
+          "price": 1440,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "14,000MB",
+          "dataSpeed": "",
+          "price": 1680,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "GAMCELL",
+          "type": "Data Bundle",
+          "dataAmount": "20,000MB",
+          "dataSpeed": "",
+          "price": 2200,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        }
+      ]
+    },
+    "QCELL": {
+      "logo": "https://raw.githubusercontent.com/kevindupas/ShortURL/master/Qcell.png",
+      "offers": [
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "20MB",
+          "dataSpeed": "",
+          "price": 8,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "40MB",
+          "dataSpeed": "",
+          "price": 9,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "80MB",
+          "dataSpeed": "",
+          "price": 18,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "100MB",
+          "dataSpeed": "",
+          "price": 24,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "150MB",
+          "dataSpeed": "",
+          "price": 30,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "200MB",
+          "dataSpeed": "",
+          "price": 40,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "250MB",
+          "dataSpeed": "",
+          "price": 48,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "300MB",
+          "dataSpeed": "",
+          "price": 60,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "500MB",
+          "dataSpeed": "",
+          "price": 90,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "750MB",
+          "dataSpeed": "",
+          "price": 98,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "1GB",
+          "dataSpeed": "",
+          "price": 130,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "1.5GB",
+          "dataSpeed": "",
+          "price": 145,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "3GB",
+          "dataSpeed": "",
+          "price": 255,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "4GB",
+          "dataSpeed": "",
+          "price": 450,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "5GB",
+          "dataSpeed": "",
+          "price": 595,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "8GB",
+          "dataSpeed": "",
+          "price": 780,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "10GB",
+          "dataSpeed": "",
+          "price": 950,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "13GB",
+          "dataSpeed": "",
+          "price": 1190,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "15GB",
+          "dataSpeed": "",
+          "price": 1490,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "QCELL",
+          "type": "Data Bundle",
+          "dataAmount": "20GB",
+          "dataSpeed": "",
+          "price": 1790,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        }
+      ]
+    },
+    "AFRICELL": {
+      "logo": "https://raw.githubusercontent.com/kevindupas/ShortURL/master/Africell.png",
+      "offers": [
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "20MB",
+          "dataSpeed": "",
+          "price": 7.5,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "40MB",
+          "dataSpeed": "",
+          "price": 9,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "50MB",
+          "dataSpeed": "",
+          "price": 11,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "80MB",
+          "dataSpeed": "",
+          "price": 18,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "100MB",
+          "dataSpeed": "",
+          "price": 24,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "150MB",
+          "dataSpeed": "",
+          "price": 30,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "200MB",
+          "dataSpeed": "",
+          "price": 40,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "300MB",
+          "dataSpeed": "",
+          "price": 60,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "500MB",
+          "dataSpeed": "",
+          "price": 90,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "750MB",
+          "dataSpeed": "",
+          "price": 98,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "1GB",
+          "dataSpeed": "",
+          "price": 130,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "1.5GB",
+          "dataSpeed": "",
+          "price": 145,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "2GB",
+          "dataSpeed": "",
+          "price": 180,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "3GB",
+          "dataSpeed": "",
+          "price": 255,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "4GB",
+          "dataSpeed": "",
+          "price": 450,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "5GB",
+          "dataSpeed": "",
+          "price": 595,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "8GB",
+          "dataSpeed": "",
+          "price": 780,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "10GB",
+          "dataSpeed": "",
+          "price": 950,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "12GB",
+          "dataSpeed": "",
+          "price": 1120,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "13GB",
+          "dataSpeed": "",
+          "price": 1190,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "15GB",
+          "dataSpeed": "",
+          "price": 1490,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Data Bundle",
+          "dataAmount": "20GB",
+          "dataSpeed": "",
+          "price": 1790,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Social Media Bundle",
+          "dataAmount": "50MB",
+          "dataSpeed": "",
+          "price": 10,
+          "validityDays": 1,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Social Media Bundle",
+          "dataAmount": "400MB",
+          "dataSpeed": "",
+          "price": 40,
+          "validityDays": 7,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Social Media Bundle",
+          "dataAmount": "1200MB",
+          "dataSpeed": "",
+          "price": 100,
+          "validityDays": 7,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mega Bundle",
+          "dataAmount": "90GB",
+          "dataSpeed": "0,75mbps",
+          "price": 1500,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mega Bundle",
+          "dataAmount": "120GB",
+          "dataSpeed": "1mbps",
+          "price": 1850,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mega Bundle",
+          "dataAmount": "225GB",
+          "dataSpeed": "2mbps",
+          "price": 1900,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mega Bundle",
+          "dataAmount": "350GB",
+          "dataSpeed": "3mbps",
+          "price": 2200,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mega Bundle",
+          "dataAmount": "450GB",
+          "dataSpeed": "4mbps",
+          "price": 2700,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mega Bundle",
+          "dataAmount": "550GB",
+          "dataSpeed": "5mbps",
+          "price": 3300,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mega Bundle",
+          "dataAmount": "700GB",
+          "dataSpeed": "6mbps",
+          "price": 4200,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mega Bundle",
+          "dataAmount": "1TB",
+          "dataSpeed": "10mbps",
+          "price": 5000,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mix Bundle",
+          "dataAmount": "40MB",
+          "dataSpeed": "",
+          "price": 10,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mix Bundle",
+          "dataAmount": "100MB",
+          "dataSpeed": "",
+          "price": 25,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mix Bundle",
+          "dataAmount": "250MB",
+          "dataSpeed": "",
+          "price": 50,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mix Bundle",
+          "dataAmount": "750MB",
+          "dataSpeed": "",
+          "price": 100,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        },
+        {
+          "carrier": "AFRICELL",
+          "type": "Mix Bundle",
+          "dataAmount": "1.5GB",
+          "dataSpeed": "",
+          "price": 150,
+          "validityDays": 30,
+          "subscriptionCallNumber": "",
+          "subscriptionSmsNumber": "",
+          "subscriptionSmsText": ""
+        }
+      ]
+    }
+  },
+  "isp": [
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "GAMTEL (ADSL2+)",
+      "bandwidth": "4mbps",
+      "price": 1500
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "GAMTEL (ADSL2+)",
+      "bandwidth": "6mbps",
+      "price": 2000
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "GAMTEL (ADSL2+)",
+      "bandwidth": "8mbps",
+      "price": 2500
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "GAMTEL (4G TAWA SUPER EXPRESS)",
+      "bandwidth": "4mbps",
+      "price": 2000
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "GAMTEL (4G TAWA SUPER EXPRESS)",
+      "bandwidth": "6mbps",
+      "price": 2500
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "GAMTEL (4G TAWA SUPER EXPRESS)",
+      "bandwidth": "8mbps",
+      "price": 3000
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "GAMTEL (4G TAWA SUPER EXPRESS)",
+      "bandwidth": "10mbps",
+      "price": 3500
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "1mbps",
+      "price": 2530
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "2mbps",
+      "price": 3500
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "3mbps",
+      "price": 3850
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "4mbps",
+      "price": 4000
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "6mbps",
+      "price": 5800
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "10mbps",
+      "price": 10000
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "1mbps",
+      "price": 1500
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "2mbps",
+      "price": 1750
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "3mbps",
+      "price": 2000
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "4mbps",
+      "price": 2250
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "5mbps",
+      "price": 2500
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "8mbps",
+      "price": 3250
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "10mbps",
+      "price": 4000
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "QCELL",
+      "bandwidth": "1mbps",
+      "price": 2400
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "QCELL",
+      "bandwidth": "2mbps",
+      "price": 3500
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "QCELL",
+      "bandwidth": "3mbps",
+      "price": 4200
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "QCELL",
+      "bandwidth": "4mbps",
+      "price": 4900
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "QCELL",
+      "bandwidth": "5mbps",
+      "price": 5800
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "DK TELECOMS",
+      "bandwidth": "1mbps",
+      "price": 1000
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "DK TELECOMS",
+      "bandwidth": "5mbps",
+      "price": 2500
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "DK TELECOMS",
+      "bandwidth": "8mbps",
+      "price": 3500
+    },
+    {
+      "tariff": "HOME (Shared)",
+      "carrier": "DK TELECOMS",
+      "bandwidth": "10mbps",
+      "price": 5000
+    },
+    {
+      "tariff": "HOME (Dedicated)",
+      "carrier": "UNIQUE SOLUTIONS",
+      "bandwidth": "1mbps",
+      "price": 2500
+    },
+    {
+      "tariff": "HOME (Dedicated)",
+      "carrier": "UNIQUE SOLUTIONS",
+      "bandwidth": "2mbps",
+      "price": 4500
+    },
+    {
+      "tariff": "HOME (Dedicated)",
+      "carrier": "UNIQUE SOLUTIONS",
+      "bandwidth": "3mbps",
+      "price": 6500
+    },
+    {
+      "tariff": "HOME (Dedicated)",
+      "carrier": "UNIQUE SOLUTIONS",
+      "bandwidth": "4mbps",
+      "price": 8500
+    },
+    {
+      "tariff": "HOME (Dedicated)",
+      "carrier": "UNIQUE SOLUTIONS",
+      "bandwidth": "5mbps",
+      "price": 10500
+    },
+    {
+      "tariff": "SME",
+      "carrier": "GAMTEL (ADSL2+)",
+      "bandwidth": "4mbps",
+      "price": 2000
+    },
+    {
+      "tariff": "SME",
+      "carrier": "GAMTEL (ADSL2+)",
+      "bandwidth": "6mbps",
+      "price": 2250
+    },
+    {
+      "tariff": "SME",
+      "carrier": "GAMTEL (ADSL2+)",
+      "bandwidth": "8mbps",
+      "price": 2500
+    },
+    {
+      "tariff": "SME",
+      "carrier": "GAMTEL (4G TAWA SUPER EXPRESS)",
+      "bandwidth": "4mbps",
+      "price": 2000
+    },
+    {
+      "tariff": "SME",
+      "carrier": "GAMTEL (4G TAWA SUPER EXPRESS)",
+      "bandwidth": "6mbps",
+      "price": 2500
+    },
+    {
+      "tariff": "SME",
+      "carrier": "GAMTEL (4G TAWA SUPER EXPRESS)",
+      "bandwidth": "8mbps",
+      "price": 3000
+    },
+    {
+      "tariff": "SME",
+      "carrier": "GAMTEL (4G TAWA SUPER EXPRESS)",
+      "bandwidth": "10mbps",
+      "price": 3500
+    },
+    {
+      "tariff": "SME",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "1mbps",
+      "price": 5060
+    },
+    {
+      "tariff": "SME",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "2mbps",
+      "price": 7000
+    },
+    {
+      "tariff": "SME",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "3mbps",
+      "price": 7700
+    },
+    {
+      "tariff": "SME",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "4mbps",
+      "price": 8000
+    },
+    {
+      "tariff": "SME",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "6mbps",
+      "price": 11600
+    },
+    {
+      "tariff": "SME",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "10mbps",
+      "price": 20000
+    },
+    {
+      "tariff": "SME",
+      "carrier": "INSIST NET",
+      "bandwidth": "1mbps",
+      "price": 1000
+    },
+    {
+      "tariff": "SME",
+      "carrier": "INSIST NET",
+      "bandwidth": "2mbps",
+      "price": 2000
+    },
+    {
+      "tariff": "SME",
+      "carrier": "INSIST NET",
+      "bandwidth": "3mbps",
+      "price": 3000
+    },
+    {
+      "tariff": "SME",
+      "carrier": "INSIST NET",
+      "bandwidth": "4mbps",
+      "price": 4000
+    },
+    {
+      "tariff": "SME",
+      "carrier": "INSIST NET",
+      "bandwidth": "5mbps",
+      "price": 5000
+    },
+    {
+      "tariff": "SME",
+      "carrier": "INSIST NET",
+      "bandwidth": "8mbps",
+      "price": 8000
+    },
+    {
+      "tariff": "SME",
+      "carrier": "INSIST NET",
+      "bandwidth": "10mbps",
+      "price": 10000
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "GAMTEL (ADSL2+)",
+      "bandwidth": "4mbps",
+      "price": 3000
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "GAMTEL (ADSL2+)",
+      "bandwidth": "6mbps",
+      "price": 5000
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "GAMTEL (ADSL2+)",
+      "bandwidth": "8mbps",
+      "price": 6000
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "GAMTEL (4G TAWA SUPER EXPRESS)",
+      "bandwidth": "4mbps",
+      "price": 3500
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "GAMTEL (4G TAWA SUPER EXPRESS)",
+      "bandwidth": "6mbps",
+      "price": 5500
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "GAMTEL (4G TAWA SUPER EXPRESS)",
+      "bandwidth": "8mbps",
+      "price": 6500
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "GAMTEL (4G TAWA SUPER EXPRESS)",
+      "bandwidth": "10mbps",
+      "price": 7000
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "1mbps",
+      "price": 7590
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "2mbps",
+      "price": 10500
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "3mbps",
+      "price": 11550
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "4mbps",
+      "price": 12000
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "5mbps",
+      "price": 17400
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "NETPAGE (DNA/4G LTE)",
+      "bandwidth": "10mbps",
+      "price": 30000
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "256kbps",
+      "price": 3713.06
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "512kbps",
+      "price": 6188.43
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "1mbps",
+      "price": 10200
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "2mbps",
+      "price": 17000
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "3mbps",
+      "price": 22680
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "4mbps",
+      "price": 28080
+    },
+    {
+      "tariff": "CORPORATE (Shared)",
+      "carrier": "INSIST NET",
+      "bandwidth": "5mbps",
+      "price": 37800
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "UNIQUE SOLUTIONS",
+      "bandwidth": "512kbps",
+      "price": 3000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "UNIQUE SOLUTIONS",
+      "bandwidth": "1mbps",
+      "price": 6000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "UNIQUE SOLUTIONS",
+      "bandwidth": "2mbps",
+      "price": 10000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "UNIQUE SOLUTIONS",
+      "bandwidth": "3mbps",
+      "price": 14000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "UNIQUE SOLUTIONS",
+      "bandwidth": "4mbps",
+      "price": 18000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "UNIQUE SOLUTIONS",
+      "bandwidth": "5mbps",
+      "price": 22000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "INSIST NET",
+      "bandwidth": "1mbps",
+      "price": 1500
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "INSIST NET",
+      "bandwidth": "2mbps",
+      "price": 3000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "INSIST NET",
+      "bandwidth": "3mbps",
+      "price": 4500
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "INSIST NET",
+      "bandwidth": "4mbps",
+      "price": 6000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "INSIST NET",
+      "bandwidth": "5mbps",
+      "price": 7500
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "INSIST NET",
+      "bandwidth": "6mbps",
+      "price": 9000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "INSIST NET",
+      "bandwidth": "7mbps",
+      "price": 10500
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "INSIST NET",
+      "bandwidth": "8mbps",
+      "price": 12000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "INSIST NET",
+      "bandwidth": "9mbps",
+      "price": 13500
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "INSIST NET",
+      "bandwidth": "10mbps",
+      "price": 15000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "QCELL",
+      "bandwidth": "1mbps",
+      "price": 18000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "QCELL",
+      "bandwidth": "2mbps",
+      "price": 30600
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "QCELL",
+      "bandwidth": "3mbps",
+      "price": 37800
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "QCELL",
+      "bandwidth": "4mbps",
+      "price": 50400
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "QCELL",
+      "bandwidth": "5mbps",
+      "price": 54000
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "QCELL",
+      "bandwidth": "6mbps",
+      "price": 64800
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "QCELL",
+      "bandwidth": "7mbps",
+      "price": 75600
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "QCELL",
+      "bandwidth": "8mbps",
+      "price": 86400
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "QCELL",
+      "bandwidth": "9mbps",
+      "price": 97200
+    },
+    {
+      "tariff": "CORPORATE (Dedicated)",
+      "carrier": "QCELL",
+      "bandwidth": "10mbps",
+      "price": 108000
+    },
+    {
+      "tariff": "FIBRE FTTH (Residential)",
+      "carrier": "GAMTEL",
+      "bandwidth": "10mbps",
+      "price": 2500
+    },
+    {
+      "tariff": "FIBRE FTTH (Residential)",
+      "carrier": "GAMTEL",
+      "bandwidth": "20mbps",
+      "price": 3500
+    },
+    {
+      "tariff": "FIBRE FTTH (Residential)",
+      "carrier": "GAMTEL",
+      "bandwidth": "30mbps",
+      "price": 5000
+    },
+    {
+      "tariff": "FIBRE FTTH (Residential)",
+      "carrier": "GAMTEL",
+      "bandwidth": "40mbps",
+      "price": 6000
+    },
+    {
+      "tariff": "FIBRE FTTH (Residential)",
+      "carrier": "NETPAGE",
+      "bandwidth": "20mbps",
+      "price": 4000
+    },
+    {
+      "tariff": "FIBRE FTTH (Residential)",
+      "carrier": "NETPAGE",
+      "bandwidth": "40mbps",
+      "price": 6000
+    },
+    {
+      "tariff": "FIBRE FTTH (Residential)",
+      "carrier": "NETPAGE",
+      "bandwidth": "60mbps",
+      "price": 8000
+    },
+    {
+      "tariff": "FIBRE FTTH (Residential)",
+      "carrier": "NETPAGE",
+      "bandwidth": "80mbps",
+      "price": 10000
+    },
+    {
+      "tariff": "FIBRE FTTH (Residential)",
+      "carrier": "NETPAGE",
+      "bandwidth": "100mbps",
+      "price": 15000
+    },
+    {
+      "tariff": "FIBRE FTTH (Residential)",
+      "carrier": "NETPAGE",
+      "bandwidth": "120mbps",
+      "price": 20000
+    },
+    {
+      "tariff": "FIBRE FTTH (Residential)",
+      "carrier": "NETPAGE",
+      "bandwidth": "140mbps",
+      "price": 25000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "GAMTEL",
+      "bandwidth": "10mbps",
+      "price": 6000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "GAMTEL",
+      "bandwidth": "20mbps",
+      "price": 8000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "GAMTEL",
+      "bandwidth": "30mbps",
+      "price": 10500
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "GAMTEL",
+      "bandwidth": "40mbps",
+      "price": 12000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "GAMTEL",
+      "bandwidth": "60mbps",
+      "price": 19800
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "GAMTEL",
+      "bandwidth": "80mbps",
+      "price": 24000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "GAMTEL",
+      "bandwidth": "100mbps",
+      "price": 28000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "GAMTEL",
+      "bandwidth": "200mbps",
+      "price": 56000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "GAMTEL",
+      "bandwidth": "300mbps",
+      "price": 75000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "NETPAGE",
+      "bandwidth": "20mbps",
+      "price": 80000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "NETPAGE",
+      "bandwidth": "40mbps",
+      "price": 12000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "NETPAGE",
+      "bandwidth": "60mbps",
+      "price": 16000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "NETPAGE",
+      "bandwidth": "80mbps",
+      "price": 20000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "NETPAGE",
+      "bandwidth": "100mbps",
+      "price": 30000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "NETPAGE",
+      "bandwidth": "120mbps",
+      "price": 40000
+    },
+    {
+      "tariff": "FIBRE FFTB (SME)",
+      "carrier": "NETPAGE",
+      "bandwidth": "140mbps",
+      "price": 50000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "GAMTEL",
+      "bandwidth": "10mbps",
+      "price": 8000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "GAMTEL",
+      "bandwidth": "20mbps",
+      "price": 10000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "GAMTEL",
+      "bandwidth": "30mbps",
+      "price": 13500
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "GAMTEL",
+      "bandwidth": "40mbps",
+      "price": 16000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "GAMTEL",
+      "bandwidth": "60mbps",
+      "price": 21600
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "GAMTEL",
+      "bandwidth": "80mbps",
+      "price": 27200
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "GAMTEL",
+      "bandwidth": "100mbps",
+      "price": 32000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "GAMTEL",
+      "bandwidth": "200mbps",
+      "price": 60000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "GAMTEL",
+      "bandwidth": "300mbps",
+      "price": 84000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "NETPAGE",
+      "bandwidth": "20mbps",
+      "price": 12000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "NETPAGE",
+      "bandwidth": "40mbps",
+      "price": 18000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "NETPAGE",
+      "bandwidth": "60mbps",
+      "price": 24000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "NETPAGE",
+      "bandwidth": "80mbps",
+      "price": 30000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "NETPAGE",
+      "bandwidth": "100mbps",
+      "price": 45000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "NETPAGE",
+      "bandwidth": "120mbps",
+      "price": 60000
+    },
+    {
+      "tariff": "FIBRE FTTO (Corporate)",
+      "carrier": "NETPAGE",
+      "bandwidth": "140mbps",
+      "price": 75000
+    }
+  ],
+  "call_sms": [
+    {
+      "carrier": "GAMCEL",
+      "callRateOnNet": 2.7,
+      "callRateOffNet": 3.4,
+      "smsRateOnNet": 0.44,
+      "smsRateOffNet": 1.1
+    },
+    {
+      "carrier": "AFRICELL",
+      "callRateOnNet": 2.6,
+      "callRateOffNet": 3.7,
+      "smsRateOnNet": 0.4,
+      "smsRateOffNet": 1.1
+    },
+    {
+      "carrier": "COMIUM",
+      "callRateOnNet": 2.6,
+      "callRateOffNet": 2.6,
+      "smsRateOnNet": 0.55,
+      "smsRateOffNet": 1.1
+    },
+    {
+      "carrier": "QCELL",
+      "callRateOnNet": 2.7,
+      "callRateOffNet": 3.3,
+      "smsRateOnNet": 0.4,
+      "smsRateOffNet": 1.1
+    },
+    {
+      "carrier": "GAMTELFixed",
+      "callRateOnNet": 0.6,
+      "callRateOffNet": 3,
+      "smsRateOnNet": "",
+      "smsRateOffNet": ""
+    }
+  ]
+}
